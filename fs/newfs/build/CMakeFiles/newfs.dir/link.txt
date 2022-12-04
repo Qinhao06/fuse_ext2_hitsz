@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -no-pie -rdynamic CMakeFiles/newfs.dir/src/newfs.c.o CMakeFiles/newfs.dir/src/newfs_utils.c.o -o newfs  -lfuse /home/students/200110623/lib/libddriver.a 
